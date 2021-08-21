@@ -67,10 +67,10 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<dropwizard.version>1.0.6</dropwizard.version>
-		<jackson.version>2.8.7</jackson.version>
-		<jodatime.version>2.9.7</jodatime.version>
-		<guava.version>21.0</guava.version>
+		<dropwizard.version>2.0.24</dropwizard.version>
+		<jackson.version>2.12.4</jackson.version>
+		<jodatime.version>2.10.10</jodatime.version>
+		<guava.version>30.1.1-jre</guava.version>
 	</properties>
 
 	<profiles>

@@ -1,3 +1,5 @@
 target
+output
 DropwizardServiceGenerator.iml
 .idea
+.settings
